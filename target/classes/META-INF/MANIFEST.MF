@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: lambdaspringboot
+Implementation-Version: 1.0.0
+Built-By: User
+Implementation-Vendor-Id: com.keypolglobal
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/lambdaspring
+ boot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
